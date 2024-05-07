@@ -26,3 +26,4 @@ This project aims to address Egypt's energy challenges by leveraging data-driven
 2. Run the main analysis scripts to generate insights and develop predictive models.
 3. Collaborate with cross-functional teams to interpret results and refine strategies.
 4. Monitor and evaluate the performance of the implemented solutions regularly.
+
